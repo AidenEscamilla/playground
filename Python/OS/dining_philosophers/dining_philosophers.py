@@ -1,6 +1,5 @@
 '''
 Credit: Code from geeksforgeeks.com-https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/
-This solution uses semaphors
 '''
 import threading
 import time
